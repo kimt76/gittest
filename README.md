@@ -2,4 +2,6 @@
 
 Repository for my DAT 4500 Git/GitHub setup
 
-Point 1
++ Point 1
+
++ Point 2
